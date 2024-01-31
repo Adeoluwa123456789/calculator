@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+#body{
+    background-color: black;
+    width: 400px;
+    height: 450px;
+    padding: 20px;
+    margin-left: 400px;
+    margin-top: 40px;
+    border-radius: 19px;
+}
+#display{
+    background-color: white;
+    box-shadow: 1px, 2px, 3px, 0.5px;
+    color: red;
+    font-size: xx-large;
+
+    padding: 20px;
+    border-radius: 12px;
+    position: relative;
+    left: 15px;
+    top: 20px;
+    width: 330px;
+    
+}
+button{
+    width: 80px;
+    padding: 10px;
+    font-size: xx-large;
+    height: 65px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+#first{
+    position: relative;
+    top: 35px;
+    left: 15px;
+
+}
+button:hover{
+    color: blueviolet;
+}
+#second{
+    position: relative;
+    left: 15px;
+    top: 45px;
+}#third{
+    position: relative;
+    left: 15px;
+    top: 55px;
+} 
+#fourth{
+    position: relative;
+    left: 15px;
+    top: 65px;
+}
